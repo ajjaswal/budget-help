@@ -46,7 +46,5 @@
     "display": "standalone",
     "start_url": ".",
     "theme_color": "#ffffff",
-    "orientation": "portrait",
-    "description": "Budget tracker app with offline functionality.",
     "background_color": "#6666ff"
 }
